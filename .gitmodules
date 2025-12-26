@@ -1,0 +1,9 @@
+[submodule "eth-watchtower-supervisor"]
+	path = eth-watchtower-supervisor
+	url = git@github.com:rnts08/eth-watchtower-supervisor.git
+[submodule "eth-watchertower"]
+	path = eth-watchertower
+	url = git@github.com:rnts08/eth-watchertower.git
+[submodule "eth-watchtower"]
+	path = eth-watchtower
+	url = git@github.com:rnts08/eth-watchtower.git
